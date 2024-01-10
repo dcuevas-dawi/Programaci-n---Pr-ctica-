@@ -1,2 +1,11 @@
 # Programacion---Practica1
-Primer ejercicio de programación
+Resolución del exámen de la primera evaluación del grupo presencial.
+
+Bloque 1
+
+Ejercicio 1
+
+~~~
+
+
+~~~
